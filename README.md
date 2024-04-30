@@ -1,4 +1,3 @@
-# automatic-winner
 <h1 align="center">Hi 👋, I'm Davila Huamán Denis</h1>
 <h3 align="center">"Versatile web developer with an innovative approach and motivation to exceed expectations. Look for join a talented team to create outstanding web solutions. My commitment and Creativity drives the success of projects. I enjoy work as a team and learn from others, being responsible and committed to each project."</h3>
 
