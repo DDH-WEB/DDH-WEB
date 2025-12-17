@@ -59,12 +59,6 @@ Perú 🇵🇪 | 2+ years experience | Open to remote opportunities
 
 ---
 
-### 📊 GitHub Stats
-
-![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddh-web&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ### 📫 Contact
 
 **Email:** denis.dh.web@gmail.com  
